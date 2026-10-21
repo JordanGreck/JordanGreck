@@ -1,5 +1,6 @@
-<h1 align="center"><b>Heeey, I'm Jordan Greck
-
+<h1 align="center"><b>Heeey, Here Jordan Greck </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+  
 ## 💻 About Me 
 I am a self-taught person and a recent data science student at the University of Buenos Aires. As always, I am constantly expanding my knowledge and skills. Recently, I am in a data engineering course at the Technological University of Buenos Aires, where I am looking to expand my knowledge in structuring and creating efficient pipelines.
 Also in my free time, i’m getting into the universe of AI agents and vibecoding, and collaborate with a friend on designing apps or mods for specific video games.
