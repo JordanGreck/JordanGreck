@@ -2,7 +2,7 @@
 <!--  -->
   
 ## 💻 About Me 
-I am a self-taught person and a recent data science student at the University of Buenos Aires. At the moment, im focused on expanding my knowledge and skills. Recently too, I am in a data engineering course at the Technological University of Buenos Aires, where I am looking to swell my knowledge in structuring and creating efficient pipelines.
+I'm a self-taught person and a recent data science student at the University of Buenos Aires. At the moment, I'm taking a data engineering course at the Technological University of Buenos Aires, where I'm looking to deepen my knowledge/skills of structuring and building efficient pipelines.
 
 Also in my free time, i’ve fully interest in the universe of Artificial Intelligence and AI agents, 'vibe coding' and LLM-driven workflows. And sometimes, i collaborate with a friend on designing apps(private repos) or mods for specific video games.
 
